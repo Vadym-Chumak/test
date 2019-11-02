@@ -1,1 +1,5 @@
-*css/ *.txt
+*.txt
+*.rar 
+**/**/*.rar
+*.zip
+**/**/*.zip
