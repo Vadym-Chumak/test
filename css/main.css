@@ -73,8 +73,8 @@ button {
     line-height: 1;
 }
 .btn:hover {
-    opacity: .5;
-    background-color: red;
+    opacity: .8;
+    background-color: green;
 }
 ul {
     list-style: none;
